@@ -24,7 +24,7 @@ I forgot to shot a video for this, but it can be seen from the part C video.[vid
 ## Part C. Make it your own
 
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**  
-I try to use google cloud vision api[https://www.npmjs.com/package/@google-cloud/vision] to add tag to identify object in an image. When I install libraryies, I tried a lot, but lots of them failed, maybe because they cannot work with the raspberey pie well. 
+I try to use google cloud vision api[https://www.npmjs.com/package/@google-cloud/vision] to add tag to identify object in an image. For example, it can detect a coke. (When I install libraryies, I tried a lot, but lots of them failed, maybe because they cannot work with the raspberey pie well.) 
 
 **b. Upload a video of your working modified project**
 [video](https://youtu.be/2JrgU8yCLsE)
