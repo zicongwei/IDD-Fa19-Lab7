@@ -18,8 +18,8 @@
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**  
 add *takePicture();* to the code.
 
-**b. Include a video of your working video doorbell**
-I forgot to short a video for this, but it can be seen from the part C video.[video](https://youtu.be/2JrgU8yCLsE)
+**b. Include a video of your working video doorbell**  
+I forgot to shot a video for this, but it can be seen from the part C video.[video](https://youtu.be/2JrgU8yCLsE)
 
 ## Part C. Make it your own
 
